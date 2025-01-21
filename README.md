@@ -1,13 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=150&pause=1000&color=CFF3F7&background=FFF3F100&center=true&vCenter=true&width=1920&height=200&lines=Hola%2C+soy++J.Pallar%C3%A9s;Hi%2C+I'm+J.Pallar%C3%A9s;Ciao%2C+sono+J.Pallar%C3%A9s;Salut%2C+je+suis+J.Pallar%C3%A9s" alt="Typing SVG" /></a>
 
-## 🕹 **Sobre mí**
-Hola, soy **Jesús Pallarés** 🧙🏼‍♂️, aquí comparto mis proyectos, ideas y herramientas que pueden ser útiles para la comunidad. Siempre estoy aprendiendo y mejorando mis habilidades.
+## 🕹 **About me**
+Hi, I'm **Jesús Pallarés** 🧙🏼‍♂️, I am a programmer based in Huelva, I can help you wherever and whenever you want!
 
-- 📚 **Estudios en curso:** Grado Superior - Desarrollo de Aplicaciones Web.
+- 📚 **Studies in progress:** Higher Degree - Development of Web Applications.
 
 ---
 
-## 🗽 **Estadísticas**
+## 🗽 **Statistics**
 <p align="center">
   <a href="https://github.com/jesuspallarees">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesuspallarees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -19,8 +19,8 @@ Hola, soy **Jesús Pallarés** 🧙🏼‍♂️, aquí comparto mis proyectos, 
 
 ---
 
-## 🤝 **Colaboremos**
-¡Me encanta trabajar con personas apasionadas! Si tienes una idea genial o necesitas ayuda en algún proyecto, no dudes en contactarme:
+## 🤝 **Let's collaborate**
+I love working with passionate people! If you have a great idea or need help with a project, do not hesitate to contact me:
 
 - 📧 **Email:** [jespaldia@gmail.com](mailto:jespaldia@gmail.com)
 - 🎭 **Instagram:** [@jesuspallarees](https://instagram.com/jesuspallarees)
@@ -32,32 +32,31 @@ Hola, soy **Jesús Pallarés** 🧙🏼‍♂️, aquí comparto mis proyectos, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 🌌 &nbsp;Bases de Datos
+### 🌌 &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ---
 
-### ⚓ &nbsp;Control de Versiones y Herramientas
+### ⚓ &nbsp;Version Control & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-## 🌟 **Mis Motivaciones**
-💡 Doy lo mejor de mí en todo momento.  
-🌍 Mi objetivo es crear proyectos que impacten positivamente.  
-🚀 Estoy aquí para aprender, crecer y contribuir.
+### 👨🏼‍🎨 &nbsp;As Hobbies
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-✨ **¡Gracias por visitar mi perfil!** Si te ha gustado, no olvides dejar una ⭐️ en mis repositorios. 😉 Shhh, también se tocar el piano. 🎹 
+✨ ** Thanks for visiting my profile!** If you liked it, don't forget to leave a ⭐️ in my repositories. I also play the piano. 🎹 
