@@ -59,4 +59,4 @@ I love working with passionate people! If you have a great idea or need help wit
 
 ---
 
-✨ ** Thanks for visiting my profile!** If you liked it, don't forget to leave a ⭐️ in my repositories. I also play the piano. 🎹 
+✨ **Thanks for visiting my profile!** If you liked it, don't forget to leave a ⭐️ in my repositories. I also play the piano. 🎹 
