@@ -7,18 +7,6 @@ Hi, I'm **Jesús Pallarés** 🧙🏼‍♂️, I am a programmer based in Huelv
 
 ---
 
-## 🗽 **Statistics**
-<p align="center">
-  <a href="https://github.com/jesuspallarees">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesuspallarees&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/jesuspallarees">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesuspallarees&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
----
-
 ## 🤝 **Let's collaborate**
 I love working with passionate people! If you have a great idea or need help with a project, do not hesitate to contact me:
 
@@ -33,7 +21,7 @@ I love working with passionate people! If you have a great idea or need help wit
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%238B5CF6.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -46,8 +34,6 @@ I love working with passionate people! If you have a great idea or need help wit
 ### ⚓ &nbsp;Version Control & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
