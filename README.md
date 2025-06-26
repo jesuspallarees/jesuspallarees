@@ -37,6 +37,8 @@ I love working with passionate people! If you have a great idea or need help wit
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF6600?style=for-the-badge&logo=devexpress&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ---
 
